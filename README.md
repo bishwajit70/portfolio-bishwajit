@@ -20,16 +20,6 @@
 - Clean and stylish UI
 - Well commented coding
 - Easy to use
-- It's Free!
-
-#Screenshot
-
-![Screenshot of HTML 5]
-(https://raw.githubusercontent.com/technext/Developer/master/Features/html5.png)
-
-
-#Demo Link
-Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/Developer/)
 
 
 
