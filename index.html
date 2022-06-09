@@ -153,8 +153,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 wow animated fadeInLeft">
-                            <form class="contact-form" action="form.php">
+                            <form class="contact-form" action="https://formsubmit.co/mailtobishwa15@gmail.com"
+                                method="POST">
+                                <input type="hidden" name="_subject" value="New Email submission!">
                                 <input type="text" name="name" placeholder="Name" required>
+                                <input type="hidden" name="_next"
+                                    value="https://bishwajit70.github.io/portfolio-bishwajit/pages/thanks.html">
                                 <input type="email" name="email" placeholder="Email" required>
                                 <textarea rows="5" name="message" placeholder="Say Something..." required></textarea>
                                 <input type="submit" value="Submit">
